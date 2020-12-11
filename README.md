@@ -99,8 +99,10 @@ Emoji Meaning:
 ✅`-info @user` - View the information of a user. **Example:** `-info @HP`
 
 🧪`-fetch` - Fetch the latests pokemon raid bosses and create their roles.  **Currently under dev.**
+> Eventually going to delete the old roles and create the new ones / create reaction role area for it.
 
 🧪`-setup` - Setup command for servers.
+> Eventually going to ask more questions/enable the ability to mention them.
 
 ✅`-unhostlock @user` - unhostlock a user.
 
