@@ -31,6 +31,8 @@ https://techswift.org/2020/09/17/how-to-enable-developer-mode-in-discord/
 
 # Commands
 > All commands for rotom can also be found by typing `-help`. In addition each command of rotom has a help text that can be displayed by typing `?command`.
+
+Commands with [x] mean they work, commands with [] mean they don't.
 ## User Commands
 
 `-help` - Display the list of rotom commands.
