@@ -35,7 +35,15 @@ https://techswift.org/2020/09/17/how-to-enable-developer-mode-in-discord/
 # Commands
 > All commands for rotom can also be found by typing `-help`. In addition each command of rotom has a help text that can be displayed by typing `?command`.
 
-Commands with ✅ mean they work, ⚙️are being developed, and 🐛 means there is a reported bug.
+Emoji Meaning:
+
+✅ Workiing.
+
+🧪 Working, But being updated.
+
+⚙️ Currently being developed.
+
+🐛 Bug reported.
 
 ## User Commands
 
@@ -43,11 +51,14 @@ Commands with ✅ mean they work, ⚙️are being developed, and 🐛 means ther
 
 ✅`-acct` - Select your account. **Example:** `-acct 1`.
 
-✅`-main` - sets your main pogo account **Example:** `-main Batmanpng`.
+🧪`-main` - sets your main pogo account **Example:** `-main Batmanpng`.
+> Adding Team
 
-✅`-alt` - sets your alt pogo account **Example:** `-alt Batmanpng2`.
+🧪`-alt` - sets your alt pogo account **Example:** `-alt Batmanpng2`.
+> Adding Team
 
-✅`-alt2` - sets your alt2 pogo account **Example:** `-alt2 Batmanpng3`.
+🧪`-alt2` - sets your alt2 pogo account **Example:** `-alt2 Batmanpng3`.
+> Adding Team
 
 ✅`-show` - show your current accounts trainer code. **Example:** `-show`
 
@@ -87,17 +98,17 @@ Commands with ✅ mean they work, ⚙️are being developed, and 🐛 means ther
 
 ✅`-info @user` - View the information of a user. **Example:** `-info @HP`
 
-⚙️`-fetch` - Fetch the latests pokemon raid bosses and create their roles.  **Currently under dev.**
+🧪`-fetch` - Fetch the latests pokemon raid bosses and create their roles.  **Currently under dev.**
 
-⚙️/`-setup` - Setup command for servers.
+🧪`-setup` - Setup command for servers.
 
 ✅`-unhostlock @user` - unhostlock a user.
 
 ✅`-unlock @user` - unlock a user.
 
-⚙️`-unraid @user` - Remove the in-raid value from a user.
+🧪`-unraid @user` - Remove the in-raid value from a user.
 > Currently working on multiserver raid tracking.
 
-⚙️`-vip` - Purchase/Check Vip Status.
+🧪`-vip` - Purchase/Check Vip Status.
 
 ## 
