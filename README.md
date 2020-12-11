@@ -81,7 +81,7 @@ https://techswift.org/2020/09/17/how-to-enable-developer-mode-in-discord/
 
 `-info @user` - View the information of a user. **Example:** `-info @HP`
 
-`-fetch` - Fetch the latests pokeone 
+`-fetch` - Fetch the latests pokemon raid bosses and create their roles.  **Currently under dev.**
 
 `-setup` - Setup command for servers.
 
@@ -92,3 +92,5 @@ https://techswift.org/2020/09/17/how-to-enable-developer-mode-in-discord/
 `-unraid @user` - Remove the in-raid value from a user.
 
 `-vip` - Purchase/Check Vip Status.
+
+## 
