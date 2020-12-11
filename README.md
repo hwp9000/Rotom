@@ -110,5 +110,6 @@ Emoji Meaning:
 > Currently working on multiserver raid tracking.
 
 🧪`-vip` - Purchase/Check Vip Status.
+> Only usable by HP currently, working on payment page, if you know how to add me HP#9000
 
 ## 
