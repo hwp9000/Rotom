@@ -72,7 +72,7 @@ Emoji Meaning:
 
 ✅`-host @pokemon <#invites> <TimeLeft>` - Host a pokemon raid. **Example:** `-host @Absol 5 15`.
 
-✅`rehost <Optional Account #>` - Rehost your past raid, **can only be used in a raid channel.**
+✅`-rehost <Optional Account #>` - Rehost your past raid, **can only be used in a raid channel.**
 
 ✅`-start` - start your raid, get a list of your partys in-game-names and invite them!. **can only be used in a raid channel.**
 
