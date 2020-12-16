@@ -2,7 +2,7 @@
 
 ![Follow Me](https://img.shields.io/github/followers/hwp9000?label=Follow%20Me&style=flat-square) ![Discord](https://img.shields.io/discord/412372314454491136?color=blue&style=for-the-badge)
 
-> Rotom is a discord bot that allows you to create a Pokemon Go Discord Community with automated raids! Private raid channels, cross-server player profiles, party managment, notifications, and more!
+> Rotom is a discord bot that allows you to create a Pokemon Go Discord Community with automated raids! Private raid channels, cross-server player profiles, party management, notifications, and more!
 
 ## Getting Started
 
