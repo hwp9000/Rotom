@@ -80,7 +80,7 @@ Emoji Meaning:
 
 ✅`-add @user` - add a user to your party! **can only be outside a raid channel.**
 
-✅`remove @user` - remove a user to your party!
+✅`-remove @user` - remove a user to your party!
 
 ✅`-leave` - leave a raid after 5 minutes! **can only be used in a raid channel.**
 
