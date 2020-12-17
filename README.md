@@ -62,7 +62,7 @@ Emoji Meaning:
 
 ✅`-show` - show your current accounts trainer code. **Example:** `-show`
 
-✅`-lb` - show the global rotom raids leaderboard accrost all servers.
+✅`-lb` - show the global rotom raids leader board across all servers.
 
 ✅`-stats` - show your trainer stats!
 
