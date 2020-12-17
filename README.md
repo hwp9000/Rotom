@@ -68,7 +68,7 @@ Emoji Meaning:
 
 ✅`-report @user <reason>` - Report a user for bad hosting, or not joining raids.
 
-[## Raid Commands](https://github.com/hwp9000/Rotom/blob/main/Host.md)
+## [Raid Commands](https://github.com/hwp9000/Rotom/blob/main/Host.md)
 
 ✅`-host @pokemon <#invites> <TimeLeft>` - Host a pokemon raid. **Example:** `-host @Absol 5 15`.
 
