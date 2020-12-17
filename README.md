@@ -70,7 +70,7 @@ Emoji Meaning:
 
 ## Raid Commands
 
-✅`-host @pokemon <#invites> <TimeLeft>` - Host a pokemon raid. **Example:** `-host @Absol 5 15`.
+✅[`-host @pokemon <#invites> <TimeLeft>`](!https://github.com/hwp9000/Rotom/blob/main/Host.md) - Host a pokemon raid. **Example:** `-host @Absol 5 15`.
 
 ✅`-rehost <Optional Account #>` - Rehost your past raid, **can only be used in a raid channel.**
 
