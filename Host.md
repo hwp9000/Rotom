@@ -10,6 +10,6 @@
 
 Please See Example Below:
 
-[Image](!https://www.mobygames.com/images/shots/l/895409-pokemon-go-iphone-screenshot-rhydon-a-tier-4-raid-boss-a-minimum.png)
+[Image](https://www.mobygames.com/images/shots/l/895409-pokemon-go-iphone-screenshot-rhydon-a-tier-4-raid-boss-a-minimum.png)
 
 Example:`-host @Absol 5 15`
