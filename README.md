@@ -115,3 +115,5 @@ Emoji Meaning:
 > Only usable by HP currently, working on payment page, if you know how to add me HP#9000
 
 ## 
+
+> If you use rotom bot we collect your discord user id to identify you and build your trainer profile and accounts. This is visible to anyone using the bot who interacts with you via Rotom.
